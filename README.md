@@ -2,7 +2,6 @@
 42Seoul에서 진행중인 본과정 서브젝트 입니다.
 ## ![42 stats](https://badge42.herokuapp.com/api/stats/klim)
 ## Inner Circle
-<hr>
 
 | Circle | Project                  | Topics                                               | Date of Completion | Status |
 | :----: | :----------------------- | :--------------------------------------------------- | :----------------: | :----: |
