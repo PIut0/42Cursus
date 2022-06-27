@@ -1,6 +1,6 @@
 # 42Cursus
 42Seoul에서 진행중인 본과정 서브젝트 입니다.
-[![klim's 42 stats](https://badge42.vercel.app/api/v2/cl4w99a96002509mpmjh0ge9w/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
+## [![klim's 42 stats](https://badge42.vercel.app/api/v2/cl4w99a96002509mpmjh0ge9w/stats?cursusId=21&coalitionId=87)](https://github.com/JaeSeoKim/badge42)
 ## Inner Circle
 
 | Circle | Project                  | Topics                                               | Date of Completion | Status |
